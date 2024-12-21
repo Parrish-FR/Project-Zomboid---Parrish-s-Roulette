@@ -1,0 +1,11 @@
+module Base
+{
+    item JetonDonationLegendoid
+    {
+        Type = Normal,
+        DisplayName = JetondonationLegendoid,
+        Icon = JetonDonationLegendoid,
+        Weight = 0.1,
+        Tooltip = "Un jeton spécial pour la roulette.",
+    }
+}

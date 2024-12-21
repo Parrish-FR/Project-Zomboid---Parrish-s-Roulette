@@ -1,0 +1,8 @@
+version=1
+id=3375120528
+title=Parrish'Roulette
+description=Version N°1
+description=
+description=Permet avec un item sur des coordonnées definie de jouer à une roulette :)
+tags=Build 41;Items;Misc;Multiplayer;Silly/Fun
+visibility=public
